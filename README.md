@@ -11,7 +11,8 @@
 </div>
 <div>
   <h2>About Me</h2>
-  <p><img src="https://ibb.co/DP4zSVLT" width="20px"/> - Computer Science student at Kolehiyo Ng Subic</p>
+                                                              
+  <p><img src="https://i.ibb.co/XfXjv2VM/logo-1.png"  width="20px"/> - Computer Science student at Kolehiyo Ng Subic</p>
   <p>👨‍💻 -  Freelance Editor.</p>
   <p>🌱 -  Junior-stack web application developer.</p>
 </div>
