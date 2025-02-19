@@ -1,7 +1,4 @@
 <h1>Hey 👋, I'm Jayvee Nacino</h2>
-
-[![committers.top badge](https://user-badge.committers.top/philippines/markcalendario.svg)](https://user-badge.committers.top/philippines/markcalendario)
-
 <div>
   <h2>Get in touch with me</h2>
   <!--<a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge"></a>-->
