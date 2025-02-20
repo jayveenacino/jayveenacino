@@ -1,15 +1,14 @@
 <h1>Hey 👋, I'm Jayvee Nacino</h2>
 <div>
   <h2>Get in touch with me</h2>
-  <!--<a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge"></a>-->
+
   <a href="https://www.facebook.com/jayveemadriaganacino019"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
   <a href="https://github.com/jayveenacino"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
-  <!--<a href="https://www.linkedin.com/in/mark-kenneth-calendario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;-->
 </div>
 <div>
   <h2>About Me</h2>
                                                               
-  <p><img src="https://i.ibb.co/XfXjv2VM/logo-1.png"  width="20px"/> - Computer Science student at Kolehiyo Ng Subic</p>
+  <p><img src="https://i.ibb.co/XfXjv2VM/logo-1.png"  width="20px"/> - Computer Science Student at Kolehiyo Ng Subic</p>
   <p>👨‍💻 -  Freelance Editor.</p>
   <p>🌱 -  Junior-stack web application developer.</p>
 </div>
