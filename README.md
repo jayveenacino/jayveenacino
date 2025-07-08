@@ -20,8 +20,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
-<!--<img align="right" alt="coding-gif" width="450" src="transparent_gitgif.gif">-->
-
  <h3 align="left">💫 About Me</h3>
  
 <h4> 
@@ -32,26 +30,13 @@
   ✨ I’m detail-oriented, growth-driven, and always striving for clean and efficient code.</h4> 
 <div align="left">
 
-<!-- Social links -->
-
-
-<!--<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p> -->
-
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=jayveenacino&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayveenacino&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+
+  
   
 </div>
 
