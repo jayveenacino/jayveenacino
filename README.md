@@ -33,7 +33,7 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=jayveenacino&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=jayveenacino&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayveenacino&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 
 </div>
