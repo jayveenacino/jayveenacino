@@ -14,12 +14,7 @@
 <h4 align="center">
 🌟 I'm currently pursuing a Bachelor's degree in Computer Science and preparing to become a Computer Engineer. I am dedicated to developing strong programming skills and exploring various areas of computer science, from software development to emerging technologies. My academic and personal journey is focused on building a solid foundation in problem-solving, coding, and system design. I am especially passionate about Artificial Intelligence and Machine Learning, and I aspire to specialize in these fields as part of my long-term career path.
 </h4>
-
-<!-- Profile views badge -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
+<hr>
  <h3 align="left">💫 About Me</h3>
  
 <h4> 
