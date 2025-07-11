@@ -74,15 +74,6 @@
   </div>
 
 
-<!-- support -->
-<h3 align="center">Support Me 💰 </h3>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/jayveenacino"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="jayveenacino" /></a>
-</p>
-
-
-
 
 <!-- ending-->
 <a href="download (2).gif">
