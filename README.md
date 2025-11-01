@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Banner 
 <div align="center">
   <a href="download.gif">
   <img src="download (1).gif" alt="Fallout GIF" style="width:100%; height:30%"/>
 </a>
 </div>
 
-
+-->
 
 </h1>
 <h1 align="center">Hello, I'm Jayve Nacino</h1>
