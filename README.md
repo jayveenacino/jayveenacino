@@ -37,8 +37,8 @@
 
 
 
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<!-- lang
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3> -->
 
 <br/>
 
@@ -49,7 +49,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div> -->
 
-<br/>
+<!-- <br/>
 
   <h3 align="center">💻 Tech Stack:</h3>
      <br/>
