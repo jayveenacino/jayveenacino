@@ -25,18 +25,6 @@
   ✨ I’m detail-oriented, growth-driven, and always striving for clean and efficient code.</h4> 
 <div align="left">
 
-<h3 align="center">🌱 Github Status</h3>
-<br>
-<div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=jayveenacino&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayveenacino&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-
-</div>
-
-<br/><br/>
-
-
-
 <!-- lang
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3> -->
 
