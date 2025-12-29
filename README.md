@@ -65,8 +65,7 @@
 
 <!-- ending-->
 <a href="download (2).gif">
-<img src="download (2).gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
+ 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" align="center" height=0.4/>
 
 
