@@ -1,45 +1,132 @@
-<!-- Banner -->
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color:#4B0082; margin-top:20px;">
-  Hello, I'm Jayve Nacino
-</h1>
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+</p>
 
-<h4 align="center" style="font-family: 'Arial', sans-serif; color:#333; line-height:1.6; max-width:800px; margin:auto;">
-  🌟 I'm currently pursuing a Bachelor's degree in Computer Science and preparing to become a Computer Engineer. I am dedicated to developing strong programming skills and exploring various areas of computer science, from software development to emerging technologies. My academic and personal journey is focused on building a solid foundation in problem-solving, coding, and system design. I am especially passionate about Artificial Intelligence and Machine Learning, and I aspire to specialize in these fields as part of my long-term career path.
-</h4>
+<h1 align="center">Hi 👋, Jayvee Nacino</h1>
 
-<hr style="border:0; border-top:2px solid #4B0082; width:50%; margin:30px auto;"/>
+<h3 align="center">Software Engineer</h3>
 
-<h3 align="left" style="color:#4B0082;">💫 About Me</h3>
-<h4 style="line-height:1.6; color:#333;">
-  🌱 I’m currently sharpening my skills in full-stack web development using the MERN stack.<br/>
-  🔭 I’ve built projects using MongoDB, Express.js, React, and Node.js, focusing on clean, scalable architecture.<br/>
-  💬 I also have experience in programming languages like JavaScript and PHP.<br/>
-  ⚡ I’m passionate about Artificial Intelligence, Machine Learning, and building smart applications that solve real-world problems.<br/>
-  ✨ I’m detail-oriented, growth-driven, and always striving for clean and efficient code.
-</h4>
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Night alt="Typing SVG" />
+</p>
 
-<div align="center" style="margin-top:20px;">
-  <h3 style="color:#4B0082;">💻 Tech Stack</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:10px;">
-    <!-- Web development stack -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </div>
-</div>
+<p align="center">
+Building innovative software solutions through clean code, scalable architecture, and efficient engineering.
+</p>
 
-<hr style="border:0; border-top:1px dashed #4B0082; margin:30px 0;"/>
+
+##  <h2 align="center">🚀 About Me </h2>
+
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+**Jayvee**, Here  — a final-year Computer Engineering student passionate about software engineering and backend development.
+
+I enjoy designing and building scalable, reliable, and production-ready applications, with a strong focus on clean code, efficient architecture, and practical solutions.
+
+Currently, I'm exploring FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis, while strengthening my foundation in Data Structures & Algorithms and software development best practices.
+
+My goal is simple: build meaningful software, solve real-world problems, and continuously grow into an engineer who creates reliable systems that make a difference.  
+
+<br clear="right"/>
+
+ <h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/jayveenacino">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jayveemadriaganacino/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="jayveemadriaganacino@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  &nbsp;&nbsp;
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express.js" />
+  &nbsp;&nbsp;
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="48" alt="Firebase" />
+  &nbsp;&nbsp;
+
+  <!-- Tools & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman" />
+</p>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" style="max-height:100px; object-fit:cover; border-radius:6px;" />
-  <p style="margin-top:10px; color:#555;">⚠️ This README is uniquely designed by <strong>Jayvee Nacino</strong>.</p>
+
+  <img src="https://streak-stats.demolab.com?user=midnightshady&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="GitHub Streak Stats"/>
+
 </div>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16" width="95%" alt="GitHub Activity Graph"/>
+</p>
+
+<h2 align="center">⌘ Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg" width="95%" alt="Pacman Contribution Graph"/>
+  </picture>
+</p>
+
+<h2 align="center">⌘ Developer Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
