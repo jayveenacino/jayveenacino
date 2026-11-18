@@ -48,10 +48,6 @@ My goal is simple: build meaningful software, solve real-world problems, and con
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
-</p>
-
-<p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
   &nbsp;&nbsp;
